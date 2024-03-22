@@ -1,5 +1,5 @@
 # AsyncAPIs in the wild
-Collection of AsyncAPIs
+A compilation of public examples of AsyncAPIs.
 
 * [ebay - Marketplace Account Deletion/Closure Notifications Workflow](https://developer.ebay.com/marketplace-account-deletion) Ebay
 * [ebay - Notification API Overview](https://developer.ebay.com/api-docs/commerce/notification/overview.html) Ebay

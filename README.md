@@ -8,6 +8,7 @@ A compilation of public examples of AsyncAPIs.
 * [SAP - Clinical Studies Inbound](https://api.sap.com/event/EVENT_INBOUND_batches_clinicaltrialsstudies/resource) SAP
 * [Haal-Centraal Common Ground POC](https://github.com/VNG-Realisatie/Haal-Centraal-BRK-event-sourcing/blob/master/specificatie/asyncapi.yaml) VNG Realisatie / Haal-Centraal-BRK-event-sourcing (POC)
 * [OTTO AsyncAPI example](https://github.com/otto-de/api-guidelines/blob/5881b06e8d24312a40d9f44155daed9ad1785f9b/decisions/dev-context/async/04-asyncapi-example/asyncapi.yaml#L4) OTTO
+* [API specification for the LSIS Azure Service Bus](https://github.com/alliander-opensource/lsis-api-specs/blob/main/lsis-asyncapi.yaml) LSIS Messaging API (AMQP)
 
 
   
